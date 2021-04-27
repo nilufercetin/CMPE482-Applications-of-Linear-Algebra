@@ -6,7 +6,7 @@
 
 ## Assignment 2 - April 15
 
-[This](files/_2017402069_cetin_cmpe482_assignment_2.html) assignment encompasses use of inverse transforms, least squares applications and fundamental properties of vectors and matrix computations.
+[This](files/2017402069_cetin_cmpe482_assignment_2.html) assignment encompasses use of inverse transforms, least squares applications and fundamental properties of vectors and matrix computations.
 
 ## Assignment 3 - April 29
 
