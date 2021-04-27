@@ -1,4 +1,4 @@
-# Nilufer Cetin CMPE482-Applications of Linear Algebra Assignments
+# Nilufer Cetin CMPE482 Applications of Linear Algebra Assignments
 
 ## Assingment 1 - April 1
 
