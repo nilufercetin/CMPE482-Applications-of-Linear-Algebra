@@ -10,7 +10,7 @@
 
 ## Assignment 3 - April 29
 
-[This](files/_2017402069_cetin_cmpe482_assignment_3.ipynb) assignment is not given yet.
+[This](files/2017402069_cetin_cmpe482_assignment_3.html) assignment is not given yet.
 
 ## Assignment 4 - May 6
 
