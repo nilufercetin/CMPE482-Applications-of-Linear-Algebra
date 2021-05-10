@@ -10,7 +10,7 @@
 
 ## Assignment 3 - April 29
 
-[This](files/2017402069_cetin_cmpe482_assignment_3.html) assignment is not given yet.
+[This](files/2017402069_cetin_cmpe482_assignment_3.html) assignment encompasses use of feature selection, feature engineering, regularization, performance metrics and two different solutions to multi-objective least squares problems.
 
 ## Assignment 4 - May 6
 
