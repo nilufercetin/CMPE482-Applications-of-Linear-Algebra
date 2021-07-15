@@ -14,8 +14,8 @@
 
 ## Assignment 4 - May 24
 
-[This](files/_2017402069_cetin_cmpe482_assignment_4.ipynb) assignment encompasses use of singular value decomposition in space transforms, image compression and matrix approximations.
+[This](files/2017402069_cetin_cmpe482_assignment_4.html) assignment encompasses use of singular value decomposition in space transforms, image compression and matrix approximations.
 
 ## Assignment 5 - June 12
 
-[This](files/_2017402069_cetin_cmpe482_assignment_5.ipynb) assignment encompasses use of singular value decomposition in clustering based classification, different classification algorithms and utilization of automatical differentiation and parameter selection for each.
+[This](files/2017402069_cetin_cmpe482_assignment_5.html) assignment encompasses use of singular value decomposition in clustering based classification, different classification algorithms and utilization of automatical differentiation and parameter selection for each.
